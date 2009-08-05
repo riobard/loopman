@@ -1,0 +1,5 @@
+frmMain = -2, 122, 513, 460, , 4, 16, 440, 419, C
+ModHotkey = 0, 0, 0, 0, C
+modDo = -2, 63, 513, 398, C
+modAlwaysOnTop = 0, 0, 0, 0, C
+modOpenDialog = 0, 87, 483, 433, C

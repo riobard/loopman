@@ -1,0 +1,8 @@
+open:5
+play:4 pause:;
+
+begin:9
+end::
+reset:r
+repeat:q
+
