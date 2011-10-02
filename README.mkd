@@ -1,0 +1,6 @@
+Loopman: audio player with easy A-B repeating
+=============================================
+
+Loopman is a tiny app wrapping RealMedia player with A-B repeating control via keyboard shortcuts. I wrote Loopman many years ago when I was learning English in high school (circa 2002). I was dictating Voice of America radio program to improve my listening skill with this tiny tool. 
+
+Loopman is written in Visual Basic 6 and runs on Windows with RealPlayer installed (or with the necessary DLL files in place). 
